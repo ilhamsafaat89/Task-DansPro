@@ -1,0 +1,9 @@
+<resources>
+    /** Login String */
+    <string name="app_name">JobInformation</string>
+    <string name="login1">Username</string>
+    <string name="Login2">Password</string>
+    <string name="Login3">Login</string>
+    <string name="title_login">Job Information</string>
+
+</resources>
